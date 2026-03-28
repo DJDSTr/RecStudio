@@ -12,7 +12,7 @@ A fast, lightweight screen recording and screenshot tool built for minimal resou
 ## Usage
 
 ```
-python client.py
+python RecStudio.py
 ```
 
 A small toolbar appears at the bottom-right of your screen:
